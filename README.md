@@ -1,2 +1,0 @@
-# BlocSpot
-My bloc coursework
